@@ -1,0 +1,16 @@
+POST http://localhost:3000/test
+Content-Type: application/json
+
+{
+  "field1": "value1"
+}
+
+###
+
+GET http://localhost:3000/test
+
+ABC
+
+###
+
+
